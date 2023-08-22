@@ -14,6 +14,30 @@
   -webkit-text-size-adjust: 100%;
 }
 
+@font-face {
+  font-family: 'AmaticSC-Bold';
+  font-style: normal;
+  src: url(./assets/fonts/AmaticSC-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Kalam-Bold';
+  font-style: normal;
+  src: url(./assets/fonts/Kalam-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'TiltPrism-Regular';
+  font-style: normal;
+  src: url(./assets/fonts/TiltPrism-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Zeyada-Regular';
+  font-style: normal;
+  src: url(./assets/fonts/Zeyada-Regular.ttf) format('truetype');
+}
+
 a {
   font-weight: 500;
   color: #646cff;
